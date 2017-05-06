@@ -1,0 +1,9 @@
+{
+  "name": "node-typescript",
+  "dependencies": {
+    "graceful-fs": "registry:dt/graceful-fs#2.0.0+20160510010627"
+  },
+  "globalDependencies": {
+    "node": "registry:env/node#6.0.0+20170213133316"
+  }
+}
